@@ -17,5 +17,5 @@ This is a simple quiz app built with **React** that uses the [Open Trivia Databa
 ## 🧠 How to Run
 1. Clone the repo  
    ```bash
-   git clone https://github.com/yourusername/react-quiz-app.git
-   cd react-quiz-app
+   git clone https://github.com/yousafzeb-byte/Open-Trivia-Database-Quiz-App.git
+   cd Open-Trivia-Database-Quiz-App
